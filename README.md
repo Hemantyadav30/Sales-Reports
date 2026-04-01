@@ -41,3 +41,9 @@ This project showcases an interactive **Power BI dashboard** built to analyze sa
 ---
 
 ## 📂 Project Structure  
+## Project Preview
+<img width="1582" height="908" alt="image" src="https://github.com/user-attachments/assets/384ca172-2552-4474-b600-e6aa90d898c3" />
+<img width="1589" height="901" alt="image" src="https://github.com/user-attachments/assets/d9cb08d3-2c2a-40bf-a037-d943e13a7c46" />
+www.linkedin.com/in/hemant-yadav-273a60376
+
+
